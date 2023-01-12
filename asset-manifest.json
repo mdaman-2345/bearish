@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bearish/static/css/main.929882cb.css",
-    "main.js": "/bearish/static/js/main.f889707c.js",
+    "main.css": "/bearish/static/css/main.7a2fa1e2.css",
+    "main.js": "/bearish/static/js/main.0c3ecf2a.js",
     "static/js/787.bed2a7bd.chunk.js": "/bearish/static/js/787.bed2a7bd.chunk.js",
     "index.html": "/bearish/index.html",
-    "main.929882cb.css.map": "/bearish/static/css/main.929882cb.css.map",
-    "main.f889707c.js.map": "/bearish/static/js/main.f889707c.js.map",
+    "main.7a2fa1e2.css.map": "/bearish/static/css/main.7a2fa1e2.css.map",
+    "main.0c3ecf2a.js.map": "/bearish/static/js/main.0c3ecf2a.js.map",
     "787.bed2a7bd.chunk.js.map": "/bearish/static/js/787.bed2a7bd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.929882cb.css",
-    "static/js/main.f889707c.js"
+    "static/css/main.7a2fa1e2.css",
+    "static/js/main.0c3ecf2a.js"
   ]
 }
