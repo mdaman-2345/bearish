@@ -45,6 +45,7 @@ import ContentCutOutlinedIcon from '@mui/icons-material/ContentCutOutlined';
 import ForumOutlinedIcon from '@mui/icons-material/ForumOutlined';
 import WatchOutlinedIcon from '@mui/icons-material/WatchOutlined';
 import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
+import Navbar from './Navbar.js'
 
 
 const drawerWidth = 240;
@@ -78,7 +79,6 @@ const DrawerHeader = styled('div')(({ theme }) => ({
   alignItems: 'center',
   justifyContent: 'flex-end',
   padding: theme.spacing(0, 1),
-  // necessary for content to be below app bar
   ...theme.mixins.toolbar,
 }));
 
@@ -278,6 +278,7 @@ export default function MiniDrawer() {
 
       </Drawer>
       <Box component="main" sx={{ flexGrow: 1, p: 3 }}>
+        <Navbar />
         <DrawerHeader />
         <Typography>
           <Button className="btn3" aria-describedby={id} onClick={handleClick} variant="outlined"  ><OfflineBoltOutlinedIcon /></Button>

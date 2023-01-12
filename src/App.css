@@ -58,3 +58,20 @@
 .btn3:hover{
   background-color: aquamarine !important;
 }
+
+.navbar2{
+  position: fixed;
+  top: 80px;
+  color: black;
+}
+
+.siz{
+  text-align: center;
+  width: auto;
+  align-items: center;
+  height: auto;
+}
+
+.headin{
+  margin-left: 20px;
+}
